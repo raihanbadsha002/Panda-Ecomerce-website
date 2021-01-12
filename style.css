@@ -1,9 +1,14 @@
-/* html{
+html{
     scroll-behavior: smooth;
-} */
+}
 
+.carousel_radius{
+    margin-top: 100px;
+    
+}
 .carousel_radius, .call_to_action{
     border-radius: 10px;
+
 }
 .price{
     color: #FF136F;
